@@ -1,0 +1,33 @@
+_repo: The-Basket-Woman--A-Book-of-Indian-Tales-for-Children_35502
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Austin, Mary Hunter
+    birthdate: 1868
+    deathdate: 1934
+    gutenberg_agent_id: '201'
+    url: http://www.gutenberg.org/2009/agents/201
+    wikipedia: http://en.wikipedia.org/wiki/Mary_Hunter_Austin
+description: ''
+gutenberg_issued: '2011-03-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '35502'
+  lccn: '10013392'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Indians of North America -- Juvenile fiction'
+- !lcc 'PZ'
+tableOfContents: 'The basket woman: first story -- The basket woman: second story
+  -- The stream that ran away -- The coyote-spirit and the weaving woman -- The cheerful
+  glacier -- The merry-go-round -- The Christmas tree -- The fire bringer -- The crooked
+  fir -- The sugar pine -- The golden fortune -- The white-barked pine -- Na''ÿang-wit''e,
+  the first rabbit drive -- Mahala Joe.'
+title: 'The Basket Woman: A Book of Indian Tales for Children'
+url: http://www.gutenberg.org/ebooks/35502
