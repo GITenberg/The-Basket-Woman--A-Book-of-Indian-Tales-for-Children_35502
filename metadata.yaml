@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/201
     wikipedia: http://en.wikipedia.org/wiki/Mary_Hunter_Austin
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/35502#The-Basket-Woman--A-Book-of-Indian-Tales-for-Children
 gutenberg_issued: '2011-03-07'
 gutenberg_type: Text
 identifiers:
